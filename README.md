@@ -182,7 +182,7 @@ broadcast - admin only
 ----
 
 ### Deploy To Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/sachin9742s/Rocky_autofilter_Robot"><img src="https://github.com/sachin9742s/Rocky_autofilter_Robot/blob/master/Rocky_autofilter_Robot/modules/logo/Rocky-autofilter-Robot-Deploy-To-Heroku.jpg" alt="sachin9742s" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/deepakgi/Rocky_autofilter_Robot"><img src="https://github.com/deepakgi/Rocky_autofilter_Robot/blob/master/Rocky_autofilter_Robot/modules/logo/Rocky-autofilter-Robot-Deploy-To-Heroku.jpg" alt="deepakgi" border="0" height="125" width="200" align="center" /></a>
 
 ----
 
